@@ -1,5 +1,7 @@
 # Dig-script
 
+Credit to https://www.youtube.com/watch?v=p6ukfIlOklk - Freedom Coding for the orginal code.
+
 a unity script for digging. works based off polys. 
 
 digging is done with colision. 
